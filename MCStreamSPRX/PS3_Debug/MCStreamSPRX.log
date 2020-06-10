@@ -1,0 +1,46 @@
+﻿  MCStream.cpp
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(33,6): warning 1700: class "LevelRenderer" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(71,6): warning 1700: class "MultiPlayerLevel" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(200,6): warning 1700: class "MultiplayerLocalPlayer" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(138,58): warning 1322: taking the address of a temporary
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(147,58): warning 1322: taking the address of a temporary
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(156,58): warning 1322: taking the address of a temporary
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(165,58): warning 1322: taking the address of a temporary
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(174,58): warning 1322: taking the address of a temporary
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(181): warning 942: missing return statement at end of non-void function "sceNpBasicSetPresenceDetails2_Stub"
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(363,8): warning 1070: returning pointer to local variable
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(383,9): warning 1070: returning pointer to local variable
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\MCStream.cpp(386): warning 942: missing return statement at end of non-void function "SendRequest"
+  
+  mc_classes.cpp
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(33,6): warning 1700: class "LevelRenderer" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(71,6): warning 1700: class "MultiPlayerLevel" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(200,6): warning 1700: class "MultiplayerLocalPlayer" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.cpp(13,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.cpp(14,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.cpp(15,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+  
+  mc_funcs.cpp
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(33,6): warning 1700: class "LevelRenderer" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(71,6): warning 1700: class "MultiPlayerLevel" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\MCStreamSPRX\mc_classes.h(200,6): warning 1700: class "MultiplayerLocalPlayer" has virtual functions but non-virtual destructor
+  
+  MCStreamSPRX.vcxproj -> C:\Users\PC User\Desktop\Menus\PS3\Streaming\MCStreamSPRX\PS3_Debug\MCStreamSPRX.sprx
